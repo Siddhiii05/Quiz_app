@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Quiz App</title>
+</head>
+<body>
+    <div id="quiz-container">
+        <div class="section" data-section="0">
+            General Knowledge
+        </div>
+
+        <div class="section" data-section="1">
+            Science
+        </div>
+
+        <div class="section" data-section="2">
+            Mathematics
+        </div>
+
+        <div class="section" data-section="3">
+            Indian History
+        </div>
+    </div>
+
+    <div id="question-container" style="display: none;">
+        <h2 id="question"></h2>
+        <div id="options"></div>
+        <p id="score" style="display: none;">
+            Score: 0
+        </p>
+        <button id="next-button">
+            Next
+        </button>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

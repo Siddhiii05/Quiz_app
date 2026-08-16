@@ -1,0 +1,260 @@
+{
+    "sections": [
+        {
+        "sectionTitle": "General Knowledge",
+        "questions": [
+            {
+            "questionType": "mcq",
+            "question": "What is the capital of Australia?",
+            "options": ["Sydney", "Canberra", "Melbourne", "Perth"],
+            "answer": "Canberra"
+            },
+            {
+            "questionType": "text",
+            "question": "Which country is known as the Land of the Rising Sun?",
+            "answer": "Japan"
+            },
+            {
+            "questionType": "number",
+            "question": "How many continents are there in the world?",
+            "answer": 7
+            },
+            {
+            "questionType": "mcq",
+            "question": "Which is the largest ocean in the world?",
+            "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+            "answer": "Pacific"
+            },
+            {
+            "questionType": "text",
+            "question": "Who invented the telephone?",
+            "answer": "Alexander Graham Bell"
+            },
+            {
+            "questionType": "number",
+            "question": "How many states are there in India?",
+            "answer": 28
+            },
+            {
+            "questionType": "mcq",
+            "question": "Which is the national animal of India?",
+            "options": ["Lion", "Tiger", "Elephant", "Leopard"],
+            "answer": "Tiger"
+            },
+            {
+            "questionType": "text",
+            "question": "What is the currency of Japan?",
+            "answer": "Yen"
+            },
+            {
+            "questionType": "number",
+            "question": "How many players are there in a football team on the field?",
+            "answer": 11
+            },
+            {
+            "questionType": "mcq",
+            "question": "Which desert is the largest hot desert in the world?",
+            "options": ["Gobi", "Kalahari", "Sahara", "Thar"],
+            "answer": "Sahara"
+            }
+        ]
+        },
+        {
+        "sectionTitle": "Science",
+        "questions": [
+            {
+            "questionType": "mcq",
+            "question": "Which gas do plants absorb from the atmosphere?",
+            "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+            "answer": "Carbon Dioxide"
+            },
+            {
+            "questionType": "text",
+            "question": "What is the chemical symbol for gold?",
+            "answer": "Au"
+            },
+            {
+            "questionType": "number",
+            "question": "How many planets are there in our Solar System?",
+            "answer": 8
+            },
+            {
+            "questionType": "mcq",
+            "question": "Which organ pumps blood throughout the human body?",
+            "options": ["Lungs", "Kidney", "Heart", "Liver"],
+            "answer": "Heart"
+            },
+            {
+            "questionType": "text",
+            "question": "What is the hardest natural substance on Earth?",
+            "answer": "Diamond"
+            },
+            {
+            "questionType": "number",
+            "question": "How many bones are there in an adult human body?",
+            "answer": 206
+            },
+            {
+            "questionType": "mcq",
+            "question": "Which planet is known as the Red Planet?",
+            "options": ["Venus", "Mars", "Jupiter", "Mercury"],
+            "answer": "Mars"
+            },
+            {
+            "questionType": "text",
+            "question": "What is the SI unit of force?",
+            "answer": "Newton"
+            },
+            {
+            "questionType": "number",
+            "question": "How many chambers does the human heart have?",
+            "answer": 4
+            },
+            {
+            "questionType": "mcq",
+            "question": "Which vitamin is produced by the human body when exposed to sunlight?",
+            "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+            "answer": "Vitamin D"
+            }
+        ]
+        },
+        {
+        "sectionTitle": "Mathematics",
+        "questions": [
+            {
+            "questionType": "mcq",
+            "question": "What is the value of π (approximately)?",
+            "options": ["2.14", "3.14", "3.41", "4.14"],
+            "answer": "3.14"
+            },
+            {
+            "questionType": "text",
+            "question": "What is the name of a triangle with all three sides equal?",
+            "answer": "Equilateral Triangle"
+            },
+            {
+            "questionType": "number",
+            "question": "What is the square root of 144?",
+            "answer": 12
+            },
+            {
+            "questionType": "mcq",
+            "question": "How many degrees are there in a right angle?",
+            "options": ["45", "90", "180", "360"],
+            "answer": "90"
+            },
+            {
+            "questionType": "text",
+            "question": "What is the mathematical term for the result of a multiplication?",
+            "answer": "Product"
+            },
+            {
+            "questionType": "number",
+            "question": "What is 25 × 8?",
+            "answer": 200
+            },
+            {
+            "questionType": "mcq",
+            "question": "Which of the following is a prime number?",
+            "options": ["9", "15", "17", "21"],
+            "answer": "17"
+            },
+            {
+            "questionType": "text",
+            "question": "What is the name of a polygon with eight sides?",
+            "answer": "Octagon"
+            },
+            {
+            "questionType": "number",
+            "question": "What is 15% of 200?",
+            "answer": 30
+            },
+            {
+            "questionType": "mcq",
+            "question": "How many sides does a hexagon have?",
+            "options": ["5", "6", "7", "8"],
+            "answer": "6"
+            }
+        ]
+        }, 
+        {
+        "sectionTitle": "Indian History",
+        "questions": [
+            {
+            "questionType": "mcq",
+            "question": "Who was the first Prime Minister of independent India?",
+            "options": [
+                "Sardar Vallabhbhai Patel",
+                "Jawaharlal Nehru",
+                "Rajendra Prasad",
+                "Subhas Chandra Bose"
+            ],
+            "answer": "Jawaharlal Nehru"
+            },
+            {
+            "questionType": "text",
+            "question": "Who is known as the Father of the Nation in India?",
+            "answer": "Mahatma Gandhi"
+            },
+            {
+            "questionType": "number",
+            "question": "In which year did India gain independence?",
+            "answer": 1947
+            },
+            {
+            "questionType": "mcq",
+            "question": "Who built the Taj Mahal?",
+            "options": [
+                "Akbar",
+                "Shah Jahan",
+                "Babur",
+                "Aurangzeb"
+            ],
+            "answer": "Shah Jahan"
+            },
+            {
+            "questionType": "text",
+            "question": "Who founded the Maurya Empire?",
+            "answer": "Chandragupta Maurya"
+            },
+            {
+            "questionType": "number",
+            "question": "In which year did the Battle of Plassey take place?",
+            "answer": 1757
+            },
+            {
+            "questionType": "mcq",
+            "question": "Which movement was launched by Mahatma Gandhi in 1942?",
+            "options": [
+                "Non-Cooperation Movement",
+                "Civil Disobedience Movement",
+                "Quit India Movement",
+                "Swadeshi Movement"
+            ],
+            "answer": "Quit India Movement"
+            },
+            {
+            "questionType": "text",
+            "question": "Who was known as the Iron Man of India?",
+            "answer": "Sardar Vallabhbhai Patel"
+            },
+            {
+            "questionType": "number",
+            "question": "In which year did the Constitution of India come into effect?",
+            "answer": 1950
+            },
+            {
+            "questionType": "mcq",
+            "question": "Who was the first President of India?",
+            "options": [
+                "Rajendra Prasad",
+                "Sarvepalli Radhakrishnan",
+                "Jawaharlal Nehru",
+                "Zakir Husain"
+            ],
+            "answer": "Rajendra Prasad"
+            }
+        ]
+        }
+    ]
+}
